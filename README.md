@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @johnnydorigojones
 - 👀 I am a first year graduate student at CU Boulder, interested in extragalactic astrophysics and observational cosmology.
 - 📫 Email: johnny.dorigojones@colorado.edu
--  website: johnnydorigojones.com
