@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @johnnydorigojones
-- 👀 I am a first year graduate student at CU Boulder, interested in extragalactic astrophysics and observational cosmology.
+- 👀 I am a PhD candidate at CU Boulder. My research currently focuses on applying neural networks to more accurately model the global 21-cm signal, and also analyzing radio frequency observations of Earth's Auroral Kilometric radiation. I have not released software/code for any of my previous projects because the analyses utilized all publicly available softwares/codes, and detailed description in my published papers facilitate reproducability of the analyses. I am happy to provide the full training and test set labels and data for the fully-connected neural network used in my previous paper upon request.
 - 📫 Email: johnny.dorigojones@colorado.edu
