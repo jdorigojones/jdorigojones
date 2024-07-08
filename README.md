@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Johnny Dorigo Jones. My work currently is studying and constraining the global 21 cm signal using different types of neural networks, and also studying other radio emissions.
 - Below is some code for my current projects and for a class I TA'd for my first year.
-- My previous projects/papers do not have publicly available code repositories released with them as it was not necessary to reproduce the analysis described in each paper, and they are done using all publicly available Python code libraries.
+- My previous projects/papers do not have publicly available code repositories released with them as it was not necessary to reproduce the analysis described in each paper, and they are done using all publicly available Python libraries/softwares.
 - 📫 Email: johnny.dorigojones@colorado.edu
