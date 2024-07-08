@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @johnnydorigojones
-- 👀 I am a PhD candidate at CU Boulder. Below you will find resources for one of the undergraduate courses I was teaching assistant for.
-- My research focuses on applying neural networks to more accurately model the global 21-cm signal, and also analyzing Earth's Auroral Kilometric radiation using observations by radio frequency telescopes on the Moon.
-- I have not released software/code for any of my previous projects because the analyses utilized all publicly available softwares/codes, and detailed description in my published papers facilitate reproducability of the analyses. I am happy to provide the full training/test set labels and data for the neural network used in my previous paper upon request.
+- 👋 Hi, I’m Johnny Dorigo Jones. My work currently is studying and constraining the global 21 cm signal using different types of neural networks, and also studying other radio emissions.
+- Below is some code for my current projects and for a class I TA'd for my first year.
+- My previous projects/papers do not have publicly available code repositories released with them as it was not necessary to reproduce the analysis described in each paper, and they are done using all publicly available Python code libraries.
 - 📫 Email: johnny.dorigojones@colorado.edu
