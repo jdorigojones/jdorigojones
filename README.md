@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnny Dorigo Jones. I develop reliable and accessible machine learning and inference tools that bridge simulations and observations to better understand the early Universe, galaxies, and the radio sky.
 - [Google Scholar](https://scholar.google.com/citations?user=Bxf7ckYAAAAJ&hl=en)
 - [Personal website & CV](https://johnnydorigojones.com/)
-- My GitHub contains public repositories for neural network emulators I developed and published, 21cmKAN ([Dorigo Jones et al. 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adfc49)) and 21cmLSTM ([Dorigo Jones et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad8b20)), so that anyone can use them for their own purposes or reproduce the results in the associated papers.
+- My GitHub contains public repositories for neural network emulators I developed and published, 21cmKAN ([Dorigo Jones et al. 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adfc49)) and 21cmLSTM ([Dorigo Jones et al. 2024](https://iopscience.iop.org/article/10.3847/1538-4357/ad8b20)), so that anyone can use them for their own purposes in 21 cm cosmology or to reproduce the results in the associated papers.
 - 📫 Email: johnny.dorigojones@colorado.edu
